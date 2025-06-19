@@ -1,4 +1,4 @@
-# Digital Nurture 4.0 – DotNet FSE | Week-wise Solutions
+# 6363690-Siddhant Rai
 
 Welcome to the repository containing my week-wise solutions for the **Digital Nurture 4.0 DotNet Full Stack Engineer (FSE)** program.
 
